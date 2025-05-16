@@ -37,6 +37,11 @@
     color: #f4c542;
   }
   
+  .indented-list {
+    padding-left: 10rem;
+  }
+  
+  
   main {
     padding: 2rem;
   }
