@@ -1,0 +1,1 @@
+To execute this file from scratch, download all files. Open index.html in your favorite browser. All other links can be navigated from the home page.
